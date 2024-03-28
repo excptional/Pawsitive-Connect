@@ -5,10 +5,10 @@
 #include <WiFiUdp.h>
 
 // Define your Firebase credentials and WiFi credentials
-#define WIFI_SSID "Redmi Note 7 Pro"
-#define WIFI_PASSWORD "8777264639"
-#define FIREBASE_PROJECT_ID "pawsitive-smart-care"
-#define FIREBASE_API_KEY "AIzaSyBvkhXCFrapcw0HHvnDVB6sTVI7cBGMpBs"
+#define WIFI_SSID "WiFi Name"
+#define WIFI_PASSWORD "WiFi Password"
+#define FIREBASE_PROJECT_ID "Project Id"
+#define FIREBASE_API_KEY "Web API Key"
 
 FirebaseConfig fconfig;
 FirebaseData fdata;
